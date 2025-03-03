@@ -1,6 +1,6 @@
 # Text Conditioned Latent Diffusion Model CIFAR10 from Scratch 
 
-A PyTorch-based subproject for my senior thesis exploring image generation using diffusion models and ResNet autoencoders on the FashionMNIST dataset.
+A PyTorch-based subproject for my senior thesis exploring image generation using diffusion models and ResNet autoencoders on the CIFAR10 dataset with text conditioning from CLIP.
 
 ## Overview
 
@@ -32,9 +32,10 @@ Attention mechanism is explained:
 ## Example Generations
 *Prompt* = A photo of a horse:   
 
-![A photo of a horse](./example_generations/Something-you-wear-on-the-foot.png)  
+![A photo of a horse](a_photo_of_a_horse.png)  
 
-
+## Generation
+You can fork the repo and run the "Generation.ipynb" notebook to generate your own examples. Model is not very capable when generating with prompts outside of the training prompts.
 		
 
 ## References
