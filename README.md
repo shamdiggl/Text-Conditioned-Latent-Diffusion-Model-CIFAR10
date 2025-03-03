@@ -12,13 +12,13 @@ This repository contains:
 
 
 Here is the architecture schema:
-![architecture_schema](schema.png)
+![architecture_schema](schemas/architecture.png)
 
 Below is the U-Net architecture (as Diffusion Backbone):
-![unet](Conditional_U-Net.png)
+![unet](schemas/unet.png)
 
 Attention mechanism is explained:
-![attention](Attention.png)
+![attention](architecture/attention.png)
 
 
 
