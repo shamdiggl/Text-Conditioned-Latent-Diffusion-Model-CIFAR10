@@ -18,7 +18,7 @@ Below is the U-Net architecture (as Diffusion Backbone):
 ![unet](schemas/unet.png)
 
 Attention mechanism is explained:
-![attention](architecture/attention.png)
+![attention](schemas/attention.png)
 
 
 
